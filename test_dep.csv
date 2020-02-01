@@ -1,4 +1,4 @@
-N;Superficie  (m2);Dormitorios;Bao;Cocina;Garaje;Lavandera;Zona;Precio($);Fuente
+N;Superficie  (m2);Dormitorios;Bao;Cocina;Garaje;Lavandera;Zona;Precio;Fuente
 71;82;1;1;1;SI;SI;ACHUMANI;112500;ULTRA CASAS
 72;50;1;1;1;NO;SI;OBRAJES;70000;ULTRA CASAS
 73;162;4;3;1;SI;SI;ALTO OBRAJES;120000;ULTRA CASAS
