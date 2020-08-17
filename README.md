@@ -8,4 +8,4 @@ Below, for example, we can see some data that was published in 2018 about real e
 
 That is why to 'democratize information' and allow more and more people to know a real price of these departments, we developed this project that would focus on calculating the approximate price of a department in certain areas in the city of La Paz.
 
-You can read our complete article at: ![Medium Article](https://medium.com/data-science-bolivia/calculadora-inmobiliaria-lp-una-aplicaci%C3%B3n-de-machine-learning-21a1f0da9611)
+You can read our complete article at: [Medium Article](https://medium.com/data-science-bolivia/calculadora-inmobiliaria-lp-una-aplicaci%C3%B3n-de-machine-learning-21a1f0da9611)
